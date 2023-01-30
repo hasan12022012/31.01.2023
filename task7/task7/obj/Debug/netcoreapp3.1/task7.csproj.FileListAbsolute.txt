@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\task7\task7\obj\Debug\netcoreapp3.1\task7.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\task7\task7\obj\Debug\netcoreapp3.1\task7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\task7\task7\obj\Debug\netcoreapp3.1\task7.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\task7\task7\obj\Debug\netcoreapp3.1\task7.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\task7\task7\obj\Debug\netcoreapp3.1\task7.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\task7\task7\bin\Debug\netcoreapp3.1\task7.exe
+C:\Users\ASUS\source\repos\task7\task7\bin\Debug\netcoreapp3.1\task7.deps.json
+C:\Users\ASUS\source\repos\task7\task7\bin\Debug\netcoreapp3.1\task7.runtimeconfig.json
+C:\Users\ASUS\source\repos\task7\task7\bin\Debug\netcoreapp3.1\task7.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\task7\task7\bin\Debug\netcoreapp3.1\task7.dll
+C:\Users\ASUS\source\repos\task7\task7\bin\Debug\netcoreapp3.1\task7.pdb
+C:\Users\ASUS\source\repos\task7\task7\obj\Debug\netcoreapp3.1\task7.dll
+C:\Users\ASUS\source\repos\task7\task7\obj\Debug\netcoreapp3.1\task7.pdb
+C:\Users\ASUS\source\repos\task7\task7\obj\Debug\netcoreapp3.1\task7.genruntimeconfig.cache

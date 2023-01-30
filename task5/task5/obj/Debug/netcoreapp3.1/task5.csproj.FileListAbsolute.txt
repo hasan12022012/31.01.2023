@@ -1,0 +1,5 @@
+C:\Users\ASUS\source\repos\task5\task5\obj\Debug\netcoreapp3.1\task5.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\task5\task5\obj\Debug\netcoreapp3.1\task5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\task5\task5\obj\Debug\netcoreapp3.1\task5.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\task5\task5\obj\Debug\netcoreapp3.1\task5.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\task5\task5\obj\Debug\netcoreapp3.1\task5.csproj.CoreCompileInputs.cache

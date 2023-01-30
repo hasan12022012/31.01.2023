@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\task8\task8\bin\Debug\netcoreapp3.1\task8.exe
+C:\Users\ASUS\source\repos\task8\task8\bin\Debug\netcoreapp3.1\task8.deps.json
+C:\Users\ASUS\source\repos\task8\task8\bin\Debug\netcoreapp3.1\task8.runtimeconfig.json
+C:\Users\ASUS\source\repos\task8\task8\bin\Debug\netcoreapp3.1\task8.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\task8\task8\bin\Debug\netcoreapp3.1\task8.dll
+C:\Users\ASUS\source\repos\task8\task8\bin\Debug\netcoreapp3.1\task8.pdb
+C:\Users\ASUS\source\repos\task8\task8\obj\Debug\netcoreapp3.1\task8.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\task8\task8\obj\Debug\netcoreapp3.1\task8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\task8\task8\obj\Debug\netcoreapp3.1\task8.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\task8\task8\obj\Debug\netcoreapp3.1\task8.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\task8\task8\obj\Debug\netcoreapp3.1\task8.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\task8\task8\obj\Debug\netcoreapp3.1\task8.dll
+C:\Users\ASUS\source\repos\task8\task8\obj\Debug\netcoreapp3.1\task8.pdb
+C:\Users\ASUS\source\repos\task8\task8\obj\Debug\netcoreapp3.1\task8.genruntimeconfig.cache
